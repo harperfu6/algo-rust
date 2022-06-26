@@ -27,7 +27,7 @@ These are for demonstration purposes only.
 
 ## [Graphs](./src/graph)
 
-- [ ] [Dijkstra](./src/graph/dijkstra.rs)
+- [x] [Dijkstra](./src/graph/dijkstra.rs)
 - [ ] [Kruskal's Minimum Spanning Tree](./src/graph/minimum_spanning_tree.rs)
 - [ ] [Prim's Minimum Spanning Tree](./src/graph/prim.rs)
 - [ ] [Breadth-First Search (BFS)](./src/graph/breadth_first_search.rs)
