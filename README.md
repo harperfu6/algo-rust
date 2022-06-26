@@ -31,7 +31,7 @@ These are for demonstration purposes only.
 - [ ] [Kruskal's Minimum Spanning Tree](./src/graph/minimum_spanning_tree.rs)
 - [ ] [Prim's Minimum Spanning Tree](./src/graph/prim.rs)
 - [x] [Breadth-First Search (BFS)](./src/graph/breadth_first_search.rs)
-- [ ] [Depth First Search (DFS)](./src/graph/depth_first_search.rs)
+- [x] [Depth First Search (DFS)](./src/graph/depth_first_search.rs)
 - [ ] [Bellman-Ford](./src/graph/bellman_ford.rs)
 - [ ] [Prufer Code](./src/graph/prufer_code.rs)
 - [ ] [Lowest Common Ancestor](./src/graph/lowest_common_ancestor.rs)
