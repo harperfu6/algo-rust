@@ -1,3 +1,4 @@
+mod data_structure;
 mod graph;
 
 // #[cfg(test)]

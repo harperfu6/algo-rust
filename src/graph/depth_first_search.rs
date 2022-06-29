@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use std::collections::{HashSet, VecDeque};
 
 #[derive(Clone, Copy, PartialEq, Eq, Hash, Debug)]

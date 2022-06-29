@@ -89,7 +89,7 @@ These are for demonstration purposes only.
   - [ ] [Directed](./src/data_structures/graph.rs)
   - [ ] [Undirected](./src/data_structures/graph.rs)
 - [ ] [Trie](./src/data_structures/trie.rs)
-- [ ] [Binary Search Tree](./src/data_structures/binary_search_tree.rs)
+- [x] [Binary Search Tree](./src/data_structures/binary_search_tree.rs)
 - [ ] [B-Tree](./src/data_structures/b_tree.rs)
 - [ ] [AVL Tree](./src/data_structures/avl_tree.rs)
 - [ ] [RB Tree](./src/data_structures/rb_tree.rs)
